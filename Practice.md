@@ -1,8 +1,8 @@
 # C1000-179 Qiskit v2.x Developer Certification — Qiskit SDK 2.4 Programming Practice Exam
 
-**Unofficial interactive programming practice exam for learners preparing for the IBM Qiskit v2.x Developer certification.**
+**Unofficial practice exam for learners preparing for the IBM Qiskit v2.x Developer certification.**
 
-This practice exam is designed to test **Qiskit SDK 2.4-style coding fluency**: reading code, completing code, selecting equivalent API patterns, interpreting small circuit snippets, using Runtime V2 primitives, configuring error mitigation and error suppression options, handling result objects, working with OpenQASM 3, and building dynamic circuits with classical control flow.
+This practice exam is designed to test knowledge of using Qiskit SDK 2.4 and preparing the real exam of the IBM Qiskit v2.x Developer certification.
 
 > **Disclaimer:** This is a community-created, unofficial study resource. It is not endorsed by IBM, Qiskit, or IBM Quantum.
 
@@ -22,8 +22,6 @@ This practice exam is designed to test **Qiskit SDK 2.4-style coding fluency**: 
 2. For single-answer questions, choose one answer. For **select-all-that-apply** questions, select every correct answer and no incorrect answers.
 3. Open **Answer and explanation** only after you have selected your answer(s).
 4. Review the full answer key only after completing all 68 questions. Multiple-response questions receive credit only when all correct choices are selected.
-5. For deeper practice, copy suspicious snippets into a Qiskit v2.x environment and test them after the timed attempt.
-
 ---
 
 ## Practice Questions
